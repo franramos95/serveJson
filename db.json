@@ -1,0 +1,55 @@
+{
+  "user":[
+          {
+            "id": 1,
+            "name": "Alexios Rivia",
+            "username": "ARIVIA",
+            "email": "alexios@gmail.com",
+            "address": {
+              "street": "Dellaware St.",
+              "suite": "776",
+              "city": "Toronto",
+              "zipcode": "92998-3874"
+            },
+            "phone": "3232-4488",
+            "company": {
+              "name": "Misthio",
+              "catchPhrase": "Multi-layered client-server neural-net"
+            }
+          },
+          {
+            "id": 2,
+            "name": "Yennefer Venemberg",
+            "username": "YVENEMBERG",
+            "email": "ynnefer@yahoo.com",
+            "address": {
+              "street": "Rivia St.",
+              "suite": "68",
+              "city": "Buffalo",
+              "zipcode": "12968-3074"
+            },
+            "phone": "6788-9988",
+            "company": {
+              "name": "Witch",
+              "catchPhrase": "Client-serve"
+            }
+          },
+          {
+            "id": 3,
+            "name": "Gandalf Fellowship",
+            "username": "GFELLOWSHIP",
+            "email": "Gandalf@uol.com",
+            "address": {
+              "street": "Rings St.",
+              "suite": "7",
+              "city": "Novigrad",
+              "zipcode": "98755-123"
+            },
+            "phone": "99909-6723",
+            "company": {
+              "name": "Wizard",
+              "catchPhrase": "Neural-net"
+            }
+          }
+        ]
+}
